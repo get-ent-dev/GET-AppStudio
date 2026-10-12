@@ -1,0 +1,6 @@
+{
+  "name": "GET AppStudio",
+  "description": "No-code mobile app builder platform with GPU-accelerated VM runner, live preview, templates, and Google Play publishing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
